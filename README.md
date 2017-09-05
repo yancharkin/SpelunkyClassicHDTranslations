@@ -9,3 +9,6 @@ Translations for [Spelunky Classic HD](https://github.com/yancharkin/SpelunkyCla
 	- **charser.png** - each character should be 16px wide
 	- **charset_small.png** - each character should be 8px wide
 - Redraw sprites in **images** directory
+
+### Contributors
+[grheavy](mailto:grheavy@hushmail.com) - Spanish translation 
