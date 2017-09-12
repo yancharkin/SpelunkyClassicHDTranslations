@@ -2,7 +2,7 @@
 Translations for [Spelunky Classic HD](https://github.com/yancharkin/SpelunkyClassicHD)
 
 ### How to
-- Copy/rename **_source** directory, for example to 'de'
+- Copy/rename **_source** directory, for example, to **deutsch**
 - Translate text in **text** file **(keep trailing spaces!)**
 - **Append** extra characters to **charset/charset** file. For example:  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ**ÄÖÜß**
 - Draw new sprites for extra characters:
