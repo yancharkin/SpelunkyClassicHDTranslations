@@ -1,5 +1,5 @@
 ## Spelunky Classic HD Translations
-Translations for [Spelunky Classic HD](https://github.com/yancharkin/SpelunkyClassicHD)
+Translations for [Spelunky Classic HD](https://yancharkin.itch.io/spelunky-classic-hd) ([Bitbucket](https://bitbucket.org/yancharkin/spelunkyclassichd/src/master/), [Github](https://github.com/yancharkin/SpelunkyClassicHD), [Gitlab](https://gitlab.com/yancharkin/SpelunkyClassicHD))
 
 ### How to
 - Copy/rename **_source** directory, for example, to **deutsch**
