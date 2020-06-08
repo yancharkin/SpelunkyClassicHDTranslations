@@ -1,4 +1,4 @@
-## Spelunky Classic HD Translations
+## Spelunky Classic HD Translations (Obsolete. The localization system now works differently)
 Translations for [Spelunky Classic HD](https://yancharkin.itch.io/spelunky-classic-hd) ([Bitbucket](https://bitbucket.org/yancharkin/spelunkyclassichd/src/master/), [Github](https://github.com/yancharkin/SpelunkyClassicHD), [Gitlab](https://gitlab.com/yancharkin/SpelunkyClassicHD))
 
 ### How to
